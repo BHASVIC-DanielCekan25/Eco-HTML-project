@@ -1,0 +1,18 @@
+body{
+	background-image: url("https://www.southdowns.gov.uk/wp-content/uploads/2019/10/Devils-Dyke.jpg");
+}
+h1{
+	color: white;
+	font-family: dubai;
+	font-size: 50px;
+}
+h2{
+	color:#448444;
+	font-family:dubai;
+	font-size: 30px;
+}
+p{
+	color: white;
+	font-family: courier new;
+	font-size:17px;
+}
